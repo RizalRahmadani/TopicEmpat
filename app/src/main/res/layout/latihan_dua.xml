@@ -49,12 +49,13 @@
         android:layout_alignParentBottom="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
+
     <Button
-        android:text="8"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:text="8" />
 
     <Button
         android:id="@+id/btn9"
@@ -67,10 +68,10 @@
         android:text="9" />
 
     <Button
-        android:text="10"
         android:id="@+id/btn10"
-        android:layout_below="@+id/btn6"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn6"
+        android:text="10" />
 
 </RelativeLayout>

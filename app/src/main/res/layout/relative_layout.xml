@@ -6,22 +6,23 @@
 
     <Button
         android:id="@+id/btnsatu"
-        android:text="button satu"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:text="button satu" />
     <Button
         android:layout_below="@+id/btnsatu"
         android:text="2"
         android:backgroundTint="@color/black"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
+
     <Button
+        android:id="@+id/btntiga"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_marginLeft="20dp"
         android:layout_toRightOf="@+id/btnsatu"
-        android:id="@+id/btntiga"
-        android:text="button tiga"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:text="button tiga" />
     <Button
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
