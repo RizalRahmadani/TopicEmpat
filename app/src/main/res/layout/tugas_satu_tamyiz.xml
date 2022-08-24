@@ -50,26 +50,28 @@
             android:layout_height="wrap_content"/>
 
         <Button
-            android:shadowColor="@color/black"
-            android:shadowDx="1200"
-            android:shadowDy="2300"
+            android:gravity="fill"
             android:layout_width="match_parent"
             android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="5dp"
             android:background="@drawable/button"
             android:drawableLeft="@drawable/transaksi_penjualan_buku"
-            android:text="Transaksi Penjualan Buku"
-            android:layout_marginTop="5dp"
-            android:layout_marginBottom="5dp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
             android:paddingLeft="30dp"
             android:paddingTop="5dp"
             android:paddingBottom="5dp"
-            android:textColor="#828282"
+            android:shadowColor="@color/black"
+            android:shadowDx="1200"
+            android:shadowDy="2300"
+            android:text="Transaksi Penjualan Buku"
             android:textAllCaps="false"
-            android:textSize="18dp"
-            />
+            android:textColor="#828282"
+            android:textSize="18dp" />
+
         <Button
+            android:gravity="fill"
             android:shadowColor="@color/black"
             android:shadowDx="1200"
             android:shadowDy="2300"
@@ -90,6 +92,7 @@
             android:textSize="18dp"
             />
         <Button
+            android:gravity="fill"
             android:shadowColor="@color/black"
             android:shadowDx="1200"
             android:shadowDy="2300"
@@ -110,6 +113,7 @@
             android:textSize="18dp"
             />
         <Button
+            android:gravity="fill"
             android:shadowColor="@color/black"
             android:shadowDx="1200"
             android:shadowDy="2300"
@@ -140,6 +144,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
         <Button
+            android:gravity="fill"
             android:shadowColor="@color/black"
             android:shadowDx="1200"
             android:shadowDy="2300"
@@ -160,6 +165,7 @@
             android:textSize="18dp"
             />
         <Button
+            android:gravity="fill"
             android:shadowColor="@color/black"
             android:shadowDx="1200"
             android:shadowDy="2300"
@@ -180,6 +186,7 @@
             android:textSize="18dp"
             />
         <Button
+            android:gravity="fill"
             android:shadowColor="@color/black"
             android:shadowDx="1200"
             android:shadowDy="2300"
@@ -200,6 +207,7 @@
             android:textSize="18dp"
             />
         <Button
+            android:gravity="fill"
             android:shadowColor="@color/black"
             android:shadowDx="1200"
             android:shadowDy="2300"

@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/button.xml" value="0.1" />
+        <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/button.xml" value="1.0" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/button_username.xml" value="0.188" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/data_buku.xml" value="0.104" />
+        <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/data_buku_tambah.xml" value="0.188" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/data_piutang_buku.xml" value="0.1" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/data_piutang_bulanan.xml" value="0.1" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/gambar_satu.xml" value="0.104" />
@@ -18,6 +19,7 @@
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/ic_profile.xml" value="0.188" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/ic_scan.xml" value="0.188" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/kas_dk.xml" value="0.1" />
+        <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/laporan.xml" value="0.188" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/laporan_keuangan.xml" value="0.1" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/laporan_penjualan_buku.xml" value="0.1" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/pendaftaran_santri_baru.xml" value="0.1" />
