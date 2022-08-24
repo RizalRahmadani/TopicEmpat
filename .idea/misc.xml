@@ -18,6 +18,7 @@
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/ic_menu.xml" value="0.197" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/ic_profile.xml" value="0.188" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/ic_scan.xml" value="0.188" />
+        <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/icon_tamyiz.xml" value="0.13" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/kas_dk.xml" value="0.1" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/laporan.xml" value="0.188" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/laporan_keuangan.xml" value="0.1" />
@@ -25,14 +26,16 @@
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/pendaftaran_santri_baru.xml" value="0.1" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/rumah.xml" value="0.188" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/drawable/transaksi_penjualan_buku.xml" value="0.1" />
+        <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/layout/cardview_ui_tamyiz.xml" value="0.16" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/layout/latihan_dua.xml" value="0.22" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/layout/latihan_satu.xml" value="0.17074275362318841" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/layout/linear_horizontal.xml" value="0.22" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/layout/relative_layout.xml" value="0.2" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/layout/tambah_commit.xml" value="0.17074275362318841" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/layout/tambah_commit_dua.xml" value="0.17074275362318841" />
+        <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/layout/tamyiz_cardview.xml" value="0.14" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/layout/tugas_dua_profile.xml" value="0.25" />
-        <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/layout/tugas_satu_tamyiz.xml" value="0.25" />
+        <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/Topic Empat Chapter 2/app/src/main/res/layout/tugas_satu_tamyiz.xml" value="0.22" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/app/src/main/res/layout/latihan_dua.xml" value="0.17074275362318841" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/app/src/main/res/layout/latihan_satu.xml" value="0.17074275362318841" />

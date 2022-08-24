@@ -6,7 +6,7 @@
     android:background="#E2DFE0"
     android:orientation="vertical">
 
-    <LinearLayout
+    <RelativeLayout
         android:backgroundTint="#5BB85D"
         android:background="@drawable/header"
         android:layout_width="match_parent"
@@ -25,16 +25,18 @@
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"/>
             <ImageView
-                android:src="@drawable/logo_tamyiz"
-                android:layout_width="180dp"
-                android:layout_height="100dp"/>
-            <ImageView
                 android:scaleType="fitEnd"
                 android:src="@drawable/ic_akun"
                 android:layout_width="match_parent"
                 android:layout_height="40dp"/>
         </LinearLayout>
-    </LinearLayout>
+
+        <ImageView
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/logo_tamyiz" />
+    </RelativeLayout>
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
@@ -62,9 +64,6 @@
             android:paddingLeft="30dp"
             android:paddingTop="5dp"
             android:paddingBottom="5dp"
-            android:shadowColor="@color/black"
-            android:shadowDx="1200"
-            android:shadowDy="2300"
             android:text="Transaksi Penjualan Buku"
             android:textAllCaps="false"
             android:textColor="#828282"
@@ -72,9 +71,6 @@
 
         <Button
             android:gravity="fill"
-            android:shadowColor="@color/black"
-            android:shadowDx="1200"
-            android:shadowDy="2300"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="@drawable/button"
@@ -93,9 +89,6 @@
             />
         <Button
             android:gravity="fill"
-            android:shadowColor="@color/black"
-            android:shadowDx="1200"
-            android:shadowDy="2300"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="@drawable/button"
@@ -114,9 +107,6 @@
             />
         <Button
             android:gravity="fill"
-            android:shadowColor="@color/black"
-            android:shadowDx="1200"
-            android:shadowDy="2300"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="@drawable/button"
@@ -145,9 +135,6 @@
             android:layout_height="wrap_content"/>
         <Button
             android:gravity="fill"
-            android:shadowColor="@color/black"
-            android:shadowDx="1200"
-            android:shadowDy="2300"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="@drawable/button"
@@ -166,9 +153,6 @@
             />
         <Button
             android:gravity="fill"
-            android:shadowColor="@color/black"
-            android:shadowDx="1200"
-            android:shadowDy="2300"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="@drawable/button"
@@ -187,9 +171,6 @@
             />
         <Button
             android:gravity="fill"
-            android:shadowColor="@color/black"
-            android:shadowDx="1200"
-            android:shadowDy="2300"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="@drawable/button"
@@ -208,9 +189,6 @@
             />
         <Button
             android:gravity="fill"
-            android:shadowColor="@color/black"
-            android:shadowDx="1200"
-            android:shadowDy="2300"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="@drawable/button"
