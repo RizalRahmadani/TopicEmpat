@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ECEBEA">
+
+    <RelativeLayout
+        android:paddingRight="20dp"
+        android:paddingLeft="20dp"
+        android:background="@drawable/header_profile"
+        android:layout_width="match_parent"
+        android:layout_height="130dp">
+
+        <ImageView
+            android:layout_marginRight="230dp"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            android:src="@drawable/ic_profile" />
+        <ImageView
+            android:layout_marginLeft="250dp"
+            android:layout_centerInParent="true"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/ic_qr_code" />
+    </RelativeLayout>
+    <TextView
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginTop="200dp"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:text="Your username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:textSize="20dp"
+        android:textColorHint="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignTop="@+id/email"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="-70dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/button_username"
+        android:backgroundTint="#FF8E11"
+        android:hint="ID User                                              null"
+        android:textStyle="bold" />
+
+    <EditText
+        android:paddingLeft="20dp"
+        android:textSize="20dp"
+        android:textColorHint="@color/black"
+        android:textStyle="bold"
+        android:hint="Email"
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/button_username"
+        android:backgroundTint="#FF8E11" />
+
+    <Button
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:text="logout"
+        android:layout_marginTop="50dp"
+        android:layout_below="@+id/email"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:background="@drawable/button_username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/navigation"
+        android:layout_marginTop="-65dp"
+        android:background="@color/white"
+        android:gravity="center">
+        <ImageButton
+            android:layout_marginTop="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="30dp"
+            android:background="@drawable/ic_home_navigation" />
+        <ImageButton
+            android:layout_marginTop="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="30dp"
+            android:background="@drawable/ic_profil" />
+        <LinearLayout
+            android:layout_marginTop="45dp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:text="Home"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <TextView
+                android:layout_marginHorizontal="130dp"
+                android:text="Pay"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <TextView
+                android:text="Profile"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+    </RelativeLayout>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="570dp"
+        android:background="@drawable/ic_scan" />
+    <LinearLayout
+        android:id="@+id/navigation"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white">
+        <ImageButton
+            android:background="@drawable/ic_menu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <ImageButton
+            android:layout_marginHorizontal="100dp"
+            android:background="@drawable/ic_home"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <ImageButton
+            android:background="@drawable/ic_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+
+</RelativeLayout>
